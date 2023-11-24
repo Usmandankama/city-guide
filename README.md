@@ -1,6 +1,6 @@
 # city_guide
 
-A new Flutter project.
+The City Guide mobile app is a digital platform designed to provide residents and tourists with valuable information and recommendations for exploring and enjoying a specific city. It serves as a user-friendly, all-in-one solution for discovering local attractions, restaurants, events, accommodations, and more. The app leverages the power of mobile technology to enhance the city exploration experience and make it more accessible to a wide range of users.
 
 ## Getting Started
 
